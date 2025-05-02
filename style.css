@@ -1,0 +1,161 @@
+*{
+	padding: 0px;
+	right: 0px;
+	top: 0px;
+}
+
+body{
+	height: 300%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	top: 0px;
+	right: 0px;
+	background-image: linear-gradient(to bottom right, red, orange, orange, yellow);
+}
+
+#bar{
+	display: flex;
+	width: 95%;
+	height: 100px;
+	margin-left: 2.5%;
+	margin-top: 10px;
+	background-color: black;
+	border-radius: 10px;
+}
+#bar h1{
+	padding-top: 10px;
+	margin-left: 10px;
+	color:white;
+}
+#bar img{
+	padding-top: 10px;
+	margin-left: 10px;
+	width: 80px;
+	height: 80px;
+}
+
+#container{
+	width: 90%;
+	margin-left: 5%;
+}
+
+.thingy{
+	background-color: rgba(0,0,0,0.5);
+	border-radius: 25px;
+	width: 50%;
+	height: 400px;
+	margin-top: 50px;
+}
+.thingy .thingytitle{
+	padding-top: 20px;
+	margin-left: 30%;
+	color: white;
+}
+
+.esplora{
+	display: flex;
+	text-decoration: none;
+	background-color: fuchsia;
+	width: 125px;
+	border: 5px;
+	border-color: indigo;
+	border-style: solid;
+	margin-left: 60%;
+	margin-top: -65px;
+}
+.esplora a{
+	text-decoration: none;
+}
+.esplora h1{
+	margin-top: -20px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+	padding-top: 20px;
+	color: black;
+}
+
+#giochi{
+}
+
+#foto{
+	margin-left: 50%;
+}
+
+#progetti{
+}
+
+#bottomBar{
+	display: flex;
+	width: 95%;
+	height: 100px;
+	margin-left: 2.5%;
+	margin-top: 100px;
+	background-color: black;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+#bottomBar h1{
+	padding-top: 10px;
+	margin-left: 10px;
+	color:white;
+}
+#bottomBar img{
+	padding-top: 10px;
+	margin-left: 10px;
+	width: 80px;
+	height: 80px;
+}
+
+#links{
+	width: 20%;
+	height: 50px;
+	margin-top: 25px;
+	margin-left: 50%;
+}
+
+#yt{
+	display: inline-block;
+	height: 100%;
+	padding-right: 5%;
+}
+#ig{
+	display: inline-block;
+	height: 100%;
+	padding-right: 5%;
+}
+#github{
+	display: inline-block;
+	height: 100%;
+	padding-right: 5%;
+}
+#twitch{
+	display: inline-block;
+	height: 100%;
+	padding-right: 5%;
+}
+
+#yt img{
+	width: 64px;
+	height: 45px;
+	padding: 0px;
+	margin-left: 0px;
+}
+#ig img{
+	width: 45px;
+	height: 45px;
+	padding: 0px;
+	margin-left: 0px;
+}
+#github img{
+	width: 45px;
+	height: 45px;
+	padding: 0px;
+	margin-left: 0px;
+}
+#twitch img{
+	width: 45px;
+	height: 45px;
+	padding: 0px;
+	margin-left: 0px;
+}
