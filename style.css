@@ -75,14 +75,21 @@ body{
 	color: black;
 }
 
-#giochi{
+#el1{
 }
 
-#foto{
+#el2{
 	margin-left: 50%;
 }
 
-#progetti{
+#el3{
+}
+
+#cap{
+	margin-left: 25%;
+}
+#cap .thingytitle{
+	margin-left: 20%;
 }
 
 #bottomBar{
