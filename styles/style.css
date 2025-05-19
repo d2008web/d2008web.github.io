@@ -7,20 +7,6 @@
 	#goback{
 		width: 90%;
 	}
-	#links{
-		height: 10px;
-		margin-top: 1790px;
-		margin-right: 5%;
-	}
-	#links.index{
-		margin-top: 1650px;
-	}
-	#links.foto{
-		margin-top: 1090px;
-	}
-	#links.progetti{
-		margin-top: 880px;
-	}
 	#cap{
 		margin-left: 5%;
 	}
@@ -29,15 +15,6 @@
 	}
 	#cap.thingy{
 		width: 90%;
-	}
-	#links.frecce{
-		margin-top: 1000px;
-	}
-	#links.auto{
-		margin-top: 690px;
-	}
-	#links.paesaggi{
-		margin-top: 690px;
 	}
 }
 @media screen and (min-width: 1224px){
@@ -48,34 +25,11 @@
 		text-decoration: none;
 		color: black;
 	}
-	#links{
-		height: 50px;
-		margin-top: 1725px;
-		margin-right: 30px;
-	}
-	#links.index{
-		margin-top: 1590px;
-	}
-	#links.foto{
-		margin-top: 1030px;
-	}
-	#links.progetti{
-		margin-top: 685px;
-	}
 	#cap{
 		margin-left: 25%;
 	}
 	#cap .thingytitle{
 		margin-left: 20%;
-	}
-	#links.frecce{
-		margin-top: 830px;
-	}
-	#links.auto{
-		margin-top: 630px;
-	}
-	#links.paesaggi{
-		margin-top: 630px;
 	}
 }
 
@@ -127,52 +81,4 @@ body{
 	text-decoration: none;
 	color: black;
 	text-align: center;
-}
-#links{
-	width: 270px;
-	position: absolute;
-}
-#yt{
-	display: inline-block;
-	height: 100%;
-	padding-right: 5%;
-}
-#ig{
-	display: inline-block;
-	height: 100%;
-	padding-right: 5%;
-}
-#github{
-	display: inline-block;
-	height: 100%;
-	padding-right: 5%;
-}
-#twitch{
-	display: inline-block;
-	height: 100%;
-	padding-right: 5%;
-}
-#yt img{
-	width: 64px;
-	height: 45px;
-	padding: 0px;
-	margin-left: 0px;
-}
-#ig img{
-	width: 45px;
-	height: 45px;
-	padding: 0px;
-	margin-left: 0px;
-}
-#github img{
-	width: 45px;
-	height: 45px;
-	padding: 0px;
-	margin-left: 0px;
-}
-#twitch img{
-	width: 45px;
-	height: 45px;
-	padding: 0px;
-	margin-left: 0px;
 }
