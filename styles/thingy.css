@@ -34,7 +34,7 @@
 	padding-top: 20px;
 	color: black;
 }
-@media screen and (min-width: 320px){
+@media screen and (min-width: 440px) and (max-width: 1244px){
 	.thingy{
 		width: 100%;
 	}

@@ -3,7 +3,7 @@
 	right: 0px;
 	top: 0px;
 }
-@media screen and (min-width: 320px){
+@media screen and (min-width: 440px) and (max-width: 1244px){
 	#goback{
 		width: 90%;
 	}
